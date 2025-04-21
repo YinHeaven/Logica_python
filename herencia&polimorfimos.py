@@ -1,4 +1,4 @@
-#gerarquia de empresa
+#Herencia y polimorfismo ejemplo de: gerarquia de una empresa
 
 # Clase madre
 class Empleado:
